@@ -3,6 +3,7 @@ A fun tool to discover random products from Product Hunt on the press of a butto
 
 Try it out [here
 ](https://exposure.cards/randomhunt)
+Support the product on [Product Hunt](https://www.producthunt.com/posts/random-hunt-2) 😻
 
 
 # Features
