@@ -1,7 +1,7 @@
 # Random Hunt
 A fun tool to discover random products from Product Hunt on the press of a button (or the space bar!) 🎲
 
-Try it out [here](https://exposure.cards/randomhunt)
+Try it out [here](https://exposure.cards/randomhunt)<br/>
 Support the product on [Product Hunt](https://www.producthunt.com/posts/random-hunt-2) 😻
 
 
